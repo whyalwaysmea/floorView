@@ -3,7 +3,7 @@
 **网易的楼层效果图**
 
 
-![网易楼层的效果](https://github.com/whyalwaysmea/floorView/master/screen/4.jpg)
+![网易楼层的效果](http://img.blog.csdn.net/20160331094321580)
 
 **该View的效果图**
 
